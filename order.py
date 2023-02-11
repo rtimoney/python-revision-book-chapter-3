@@ -1,3 +1,5 @@
+# setting order
+
 # declare and initialize example variables for demonstartion purposes
 a = 2
 b = 4
