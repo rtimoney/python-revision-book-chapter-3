@@ -18,5 +18,5 @@ print('Variable b is :' ,  'Even' if (b % 2 == 0) else 'Odd')
 top = a if ( a > b ) else b
 print('\nGreater Value is:', top)
 
-# important note : some devs dislike conditional expressions because its syntax contradicts the principle of easy readability
+# important note : some devs dislike conditional expressions because its syntax contradicts the principle  of easy readability
 
