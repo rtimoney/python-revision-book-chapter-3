@@ -1,4 +1,4 @@
-# examining condition 
+# examining condition
 
 # python does not have a ternary operator
 # uses conditional expression in much the same way
