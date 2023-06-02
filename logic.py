@@ -1,4 +1,4 @@
-# logical operators 
+# logical operators
 
 # declare and initialize variables to assist with demonstration
 
