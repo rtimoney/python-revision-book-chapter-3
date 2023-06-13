@@ -1,4 +1,4 @@
-# initiate variables with values for comparison v
+# initiate variables with values for comparison 
 nil=0
 num=0
 top=1
