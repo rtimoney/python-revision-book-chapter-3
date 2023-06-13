@@ -6,7 +6,7 @@ cap='A'
 low='a'
 
 # \t adds an invisible tab character 
-# --
+# -- 
 
 # nil == num will return a boolean value of True (if the operands are equal) or False (if the operands are not equal)
 print('Equality:\t\t', nil , '==' , num , nil == num)
